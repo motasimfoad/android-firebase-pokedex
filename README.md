@@ -2,11 +2,6 @@
 
 Android app built using Java, Firebase and Android Studio
 
-![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/1.png)
-![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/2.png)
-![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/3.png)
-![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/4.png)
-
 Built using:
 
 - Android Studio
@@ -14,3 +9,10 @@ Built using:
 - Firebase
 
 Reach Me : https://motasimfoad.com/
+
+![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/1.png)
+![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/2.png)
+![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/3.png)
+![android firebase pokedex](https://motasimfoad.com/webasset/androidPokemon/4.png)
+
+
